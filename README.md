@@ -35,8 +35,8 @@ Durante este curso, ustedes:
 ¡Estoy emocionado de iniciar este viaje de aprendizaje con ustedes y no puedo esperar a ver todas las increíbles cosas que vamos a lograr juntos!
 
 MC. Rene Solis
-Departamento de Sistemas y Computación
-CTO Amazon Web Services Academy
-TECNM, Instituto Tecnológico de Tijuana
+<br> Departamento de Sistemas y Computación
+<br> CTO Amazon Web Services Academy
+<br> TECNM, Instituto Tecnológico de Tijuana
 
 
