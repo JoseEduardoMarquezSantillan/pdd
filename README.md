@@ -1,3 +1,6 @@
+![](images/pdd.png)
+
+
 # Bienvenida al Curso de Patrones de Diseño
 
 ## Departamento de Sistemas y Computación
@@ -37,4 +40,3 @@ CTO Amazon Web Services Academy
 TECNM, Instituto Tecnológico de Tijuana
 
 
-```
