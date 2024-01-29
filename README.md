@@ -1,5 +1,3 @@
-
-```markdown
 # Bienvenida al Curso de Patrones de Diseño
 
 ## Departamento de Sistemas y Computación
@@ -9,38 +7,34 @@
 
 ¡Hola, estudiantes de Ingeniería de Sistemas!
 
-Sean todos bienvenidos al **Curso de Patrones de Diseño**. Aquí vamos a sumergirnos en el mundo de la creación de software, aprendiendo las mejores prácticas para resolver problemas comunes de programación y diseño. Este curso está pensado para darles las herramientas necesarias para que sus proyectos de software sean más eficientes, entendibles y fáciles de mantener.
+Sean bienvenidos al **Curso de Patrones de Diseño**, una parte fundamental de su formación como ingenieros en sistemas. Este curso está diseñado específicamente para proporcionarles conocimientos prácticos y teóricos sobre cómo los patrones de diseño pueden resolver problemas comunes en el desarrollo de software y mejorar significativamente la calidad de sus proyectos.
 
 ### Objetivos del Curso
 
-Al concluir este curso, ustedes serán capaces de:
+Durante este curso, ustedes:
 
-- **Identificar patrones de diseño**: Reconocerán los patrones de diseño más comunes y entenderán en qué situaciones aplicarlos.
-- **Aplicar patrones de diseño en proyectos reales**: Usarán patrones de diseño para resolver problemas específicos en el desarrollo de software, mejorando la calidad y la escalabilidad de sus proyectos.
-- **Mejorar la comunicación en el equipo de desarrollo**: Aprenderán a utilizar un lenguaje común basado en patrones de diseño para describir soluciones de manera clara y concisa.
-
-### Estructura del Curso
-
-El curso está dividido en módulos que cubren diferentes patrones de diseño, incluyendo:
-
-1. **Patrones Creacionales**: Como el Singleton y el Factory Method, que se enfocan en mecanismos de creación de objetos.
-2. **Patrones Estructurales**: Incluyendo el Adapter y el Decorator, que facilitan la composición de interfaces o clases.
-3. **Patrones de Comportamiento**: Como el Observer y el Strategy, que se ocupan de la comunicación efectiva y la asignación de responsabilidades entre objetos.
+- **Aprenderán sobre Patrones de Diseño**: Comprenderán qué son, por qué son importantes y cómo se aplican en situaciones reales de desarrollo de software.
+- **Desarrollarán habilidades prácticas**: Mediante ejercicios y proyectos, pondrán en práctica los patrones de diseño en diferentes escenarios de programación.
+- **Mejorarán su capacidad de análisis**: Aprenderán a identificar cuándo y cómo utilizar un patrón de diseño específico para resolver un problema de programación.
 
 ### Metodología
 
-- **Clases teóricas**: Para introducir cada patrón y discutir su teoría y aplicaciones.
-- **Ejercicios prácticos**: Donde aplicarán lo aprendido en ejemplos y proyectos reales.
-- **Proyecto final**: Que consolidará todos los patrones estudiados, aplicándolos en un sistema de software integrado.
+- **Clases Interactivas**: Las sesiones incluirán explicaciones teóricas y ejemplos prácticos.
+- **Proyectos Reales**: Trabajarán en proyectos que les permitirán aplicar los patrones de diseño en situaciones reales.
+- **Colaboración y Discusión**: Fomentaremos el trabajo en equipo y el intercambio de ideas entre compañeros.
 
-### Por atenderlos
+### Evaluación
 
-Estoy emocionado de acompañarlos en este viaje de aprendizaje. Juntos vamos a descubrir cómo los patrones de diseño pueden hacer nuestra vida de desarrolladores mucho más sencilla y nuestros códigos más profesionales.
-Nos vemos en clase,
+- **Participación en Clase**: Su involucramiento y participación activa son fundamentales.
+- **Proyectos y Tareas**: Serán evaluados basándose en los proyectos y tareas asignadas a lo largo del curso.
+- **Exámenes Prácticos**: Habrá evaluaciones prácticas para comprobar su comprensión y habilidad para aplicar los patrones de diseño.
+
+¡Estoy emocionado de iniciar este viaje de aprendizaje con ustedes y no puedo esperar a ver todas las increíbles cosas que vamos a lograr juntos!
 
 MC. Rene Solis
 Departamento de Sistemas y Computación
 CTO Amazon Web Services Academy
 TECNM, Instituto Tecnológico de Tijuana
-```
 
+
+```
