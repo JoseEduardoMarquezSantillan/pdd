@@ -32,7 +32,7 @@ Durante este curso, ustedes:
 ### Evaluación
 
 - **Participación en Clase**: Su involucramiento y participación activa son fundamentales.
-- **Proyectos y Tareas**: Serán evaluados basándose en los proyectos y tareas asignadas a lo largo del curso.
+- **Proyectos y trabajos**: Serán evaluados basándose en los proyectos y tareas asignadas a lo largo del curso.
 - **Exámenes Prácticos**: Habrá evaluaciones prácticas para comprobar su comprensión y habilidad para aplicar los patrones de diseño.
 
 ¡Estoy emocionado de iniciar este viaje de aprendizaje con ustedes y no puedo esperar a ver todas las increíbles cosas que vamos a lograr juntos!
