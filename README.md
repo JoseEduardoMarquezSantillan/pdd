@@ -37,6 +37,8 @@ Durante este curso, ustedes:
 
 ¡Estoy emocionado de iniciar este viaje de aprendizaje con ustedes y no puedo esperar a ver todas las increíbles cosas que vamos a lograr juntos!
 
+<!-- Escalar una imagen 200x200 -->
+<img src="https://avatars.githubusercontent.com/u/2523851?v=4" width="200" height="200" />
 MC. Rene Solis
 <br> Departamento de Sistemas y Computación
 <br> CTO Amazon Web Services Academy
