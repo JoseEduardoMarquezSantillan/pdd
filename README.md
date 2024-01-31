@@ -43,5 +43,9 @@ MC. Rene Solis
 <br> Departamento de Sistemas y Computación
 <br> CTO Amazon Web Services Academy
 <br> TECNM, Instituto Tecnológico de Tijuana
+---
 
+REGISTRO 2024a
+Formulario de estudiantes 2024a
 
+https://forms.gle/ViCfFPmKLUvCp5ch6
