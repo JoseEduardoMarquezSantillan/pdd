@@ -49,3 +49,6 @@ REGISTRO 2024a
 Formulario de estudiantes 2024a
 
 https://forms.gle/ViCfFPmKLUvCp5ch6
+
+
+![Calendario de Examenes PDD24a](https://github.com/tectijuana/pdd/assets/2523851/2aef2920-f023-4a71-a5ed-7d342505b4c9)
