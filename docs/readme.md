@@ -1,3 +1,6 @@
+
+
+
 ## Patrones de Diseño de Software
 
 ### Introducción
@@ -63,6 +66,10 @@ Los patrones de diseño son soluciones probadas y reutilizables para problemas c
 - **Libros de Texto**:
   - "Head First Design Patterns" de Elisabeth Freeman y Kathy Sierra
   - "Software Architecture Patterns" de Mark Richards
+ 
+![](<img width="816" alt="pddbook1" src="https://github.com/user-attachments/assets/bf960854-b3f3-402e-8016-b9b739d8ac6f">) descargar via https://drive.google.com/drive/folders/1MQorL6ILLxfppjf9GmCwYIfeJVHjgwx-?usp=share_link (33 Mb)
+
+
 - **Herramientas de Programación**: Entornos de desarrollo como Eclipse, Visual Studio, y herramientas de diagramación como Microsoft Visio y UML. Asi tambien portales de snipplet de código en linea.
 
 ### Conclusión
