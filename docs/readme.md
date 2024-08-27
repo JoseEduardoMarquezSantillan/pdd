@@ -74,5 +74,5 @@ Los patrones de diseño son soluciones probadas y reutilizables para problemas c
 
 - **Herramientas de Programación**: Entornos de desarrollo como Eclipse, Visual Studio, y herramientas de diagramación como Microsoft Visio y UML. Asi tambien portales de snipplet de código en linea.
 
-### Conclusión
+### Resultado esperado
 Al finalizar este curso, los estudiantes habrán adquirido una comprensión profunda de cómo los patrones de diseño pueden mejorar la calidad del software. Estarán equipados con las habilidades necesarias para aplicar estos patrones en situaciones del mundo real, contribuyendo a la creación de software de alta calidad y eficiencia.
