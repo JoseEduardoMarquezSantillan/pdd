@@ -110,3 +110,50 @@ Un cajero automático (ATM) puede beneficiarse de varios patrones de diseño par
    - **Ejemplo en ATM**: Un proxy podría ser utilizado para representar una conexión remota con un servidor bancario, manejando la lógica de reconexión y autenticación automáticamente.
 
 Estos patrones de diseño ayudan a estructurar el código del ATM de una manera que es modular, mantenible y extensible, permitiendo futuras modificaciones y mejoras sin la necesidad de realizar cambios extensivos en el sistema.
+
+-----
+
+# Preguntas sobre Patrones de Diseño
+
+1. **¿Qué es un patrón de diseño y por qué es importante en el desarrollo de software?**
+
+2. **¿Cuáles son las principales ventajas de usar patrones de diseño en el desarrollo de software? Menciona al menos tres.**
+
+3. **Explica la diferencia entre los patrones de diseño creacionales, estructurales y de comportamiento. Proporciona un ejemplo de cada tipo.**
+
+4. **¿Qué problemas comunes en el desarrollo de software resuelve el patrón Singleton?**
+
+5. **En qué situaciones es más adecuado utilizar el patrón Factory Method en lugar de crear objetos directamente usando `new`?**
+
+6. **¿Cómo ayuda el patrón Observer a mejorar la comunicabilidad dentro de un sistema? Proporciona un ejemplo de su uso.**
+
+7. **Describe cómo funciona el patrón Strategy y da un ejemplo de su aplicación en un sistema de software.**
+
+8. **¿Qué beneficios ofrece el patrón Decorator en comparación con la herencia para añadir funcionalidades a los objetos?**
+
+9. **¿En qué situaciones es útil aplicar el patrón State? Describe un escenario donde cambiar los estados de un objeto sea esencial.**
+
+10. **¿Cómo puede el patrón Command mejorar la modularidad y la gestión de transacciones en un sistema de software?**
+
+# Preguntas sobre Aplicación de Patrones de Diseño en un ATM
+
+1. **¿Qué patrón de diseño utilizarías para garantizar que solo exista una conexión activa a la base de datos desde un ATM? ¿Por qué?**
+
+2. **En el contexto de un ATM, ¿cómo se podría usar el patrón Strategy para validar diferentes tipos de tarjetas (débito, crédito)?**
+
+3. **Describe cómo el patrón State sería útil para gestionar los diferentes estados de un cajero automático (por ejemplo, "Esperando Tarjeta", "Validando PIN").**
+
+4. **¿Qué ventaja ofrece usar el patrón Observer para notificar eventos como la falta de efectivo en un ATM o la detección de una transacción fraudulenta?**
+
+5. **¿Por qué podría ser necesario usar el patrón Adapter en un ATM cuando interactúa con diferentes sistemas bancarios?**
+
+6. **¿Cómo podría el patrón Command ser útil para implementar la funcionalidad de deshacer (rollback) en las transacciones de un ATM?**
+
+7. **Si se quisiera añadir una nueva funcionalidad de seguridad al ATM sin cambiar el código existente, ¿qué patrón de diseño recomendarías y por qué?**
+
+8. **¿Cómo utilizarías el patrón Facade para simplificar la interacción entre un ATM y sistemas de terceros, como servicios de verificación de identidad?**
+
+9. **¿Qué patrón de diseño ayudaría a un ATM a gestionar diferentes tipos de operaciones (retiro, consulta de saldo, transferencia) de manera flexible y modular?**
+
+10. **¿Qué patrones de diseño considerarías críticos para asegurar la extensibilidad y mantenibilidad del software de un ATM? Justifica tu respuesta.**
+
