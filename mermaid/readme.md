@@ -350,3 +350,8 @@ classDiagram
   Client --> Publisher
   Client ..> ConcreteSubscribers
 ```
+
+# Actividad:
+
+Con el fin de apoyar la prespectiva, usemos GoF GTP para "memorizar" los conceptos con supuestos y ficticios ideas. Como el ATM
+https://chatgpt.com/g/g-DTD8JlS8O-gang-of-four
