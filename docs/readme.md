@@ -71,6 +71,8 @@ Los patrones de diseño son soluciones probadas y reutilizables para problemas c
 
 ![](<img width="816" alt="pddbook1" src="https://github.com/user-attachments/assets/bf960854-b3f3-402e-8016-b9b739d8ac6f">) descargar via https://drive.google.com/drive/folders/1MQorL6ILLxfppjf9GmCwYIfeJVHjgwx-?usp=share_link (33 Mb)
 
+- **EDITOR EN LINEA**: https://dotnetfiddle.net/# recomendable.
+
 
 - **Herramientas de Programación**: Entornos de desarrollo como Eclipse, Visual Studio, y herramientas de diagramación como Microsoft Visio y UML. Asi tambien portales de snipplet de código en linea.
 
