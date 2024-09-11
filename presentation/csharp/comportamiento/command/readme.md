@@ -14,6 +14,17 @@ Command es un patrón de diseño de comportamiento que convierte una solicitud e
 
 <p>El pedido en papel hace la función de un comando. Permanece en una cola hasta que el chef está listo para servirlo. Este pedido contiene toda la información relevante necesaria para preparar la comida. Permite al chef empezar a cocinar de inmediato, en lugar de tener que correr de un lado a otro aclarando los detalles del pedido directamente contigo.</p>
 
+# Estructura
+![image](https://github.com/user-attachments/assets/4a2653a1-7722-426c-99a7-249621a672dd)
+
+1. La clase Emisora (o invocadora) es responsable de inicializar las solicitudes. Esta clase debe tener un campo para almacenar una referencia a un objeto de comando. El emisor activa este comando en lugar de enviar la solicitud directamente al receptor. Ten en cuenta que el emisor no es responsable de crear el objeto de comando. Normalmente, obtiene un comando precreado de parte del cliente a través del constructor.
+2. La interfaz Comando normalmente declara un único método para ejecutar el comando.
+3. Los Comandos Concretos implementan varios tipos de solicitudes. Un comando concreto no se supone que tenga que realizar el trabajo por su cuenta, sino pasar la llamada a uno de los objetos de la lógica de negocio. Sin embargo, para lograr simplificar el código, estas clases se pueden fusionar. Los parámetros necesarios para ejecutar un método en un objeto receptor pueden declararse como campos en el comando concreto. Puedes hacer inmutables los objetos de comando permitiendo la inicialización de estos campos únicamente a través del constructor.
+4. La clase Receptora contiene cierta lógica de negocio. Casi cualquier objeto puede actuar como receptor. La mayoría de los comandos solo gestiona los detalles sobre cómo se pasa una solicitud al receptor, mientras que el propio receptor hace el trabajo real.
+5. El Cliente crea y configura los objetos de comando concretos. El cliente debe pasar todos los parámetros de la solicitud, incluyendo una instancia del receptor, dentro del constructor del comando. Después de eso, el comando resultante puede asociarse con uno o varios emisores.
+
+
+
 # Pseudocódigo
 El patrón Command ayuda a rastrear el historial de operaciones ejecutadas y hace posible revertir una operación si es necesario.
 ![pseudocodigo](https://refactoring.guru/images/patterns/diagrams/command/example.png?id=1f42c8395fe54d0e409026b91881e2a0)
@@ -190,6 +201,15 @@ Proceso de venta finalizado.
 
 5. Invoker (PointOfSaleInvoker): Es el encargado de ejecutar los comandos en el momento adecuado, en este caso, durante el proceso de venta.
 
+
+# Pros y contras
+| Pros     | Contras |
+|----------|----------|
+| Principio de responsabilidad única. Puedes desacoplar las clases que invocan operaciones de las que realizan esas operaciones.    | El código puede complicarse, ya que estás introduciendo una nueva capa entre emisores y receptores.   |
+| Principio de abierto/cerrado. Puedes introducir nuevos comandos en la aplicación sin descomponer el código cliente existente. 
+| Puedes implementar deshacer/rehacer. 
+| Puedes implementar la ejecución diferida de operaciones.  
+| Puedes ensamblar un grupo de comandos simples para crear uno complejo. 
 
 
 # Referencias
